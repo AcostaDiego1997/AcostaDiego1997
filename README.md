@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola 👋, Hola! soy Diego Acosta
+#### Developer Fullstack Jr
+![Developer Fullstack Jr]( )
 
-<!--
-**AcostaDiego1997/AcostaDiego1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+En este sitio estaré cargando material sobre distintos proyectos personales y profesionales
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades: Java | JavaScript | SQL | HTML5 | CSS
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com//Acostadiego1997)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//Acostadiego1997/)  
+
