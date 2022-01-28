@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Diego Acosta</h1>
 <h3 align="center">Developer Fullstack Jr</h3>
 
-- 🌱 Estoy aprendiendo **Angular, TypeScript**
+- 🌱 Actualmente estoy aprendiendo **Angular, TypeScript**
 
 - 💬 Preguntame sobre **Java, JavaScript, SQL, HTML5, CSS**
 
